@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rohanikshvaku
-- 👀 I’m interested in fullstack web development
-- 🌱 I’m currently learning Web3.0
-- 💞️ I’m looking to collaborate on Fullstack and Web3.0 Projects and Opportunities
+- 👀 I’m interested in AI & ML 
+- 🌱 I’m currently in the langchain rabbit hole
 - 📫 Reach me on rohan@rohanjain.com
 
 <!---
