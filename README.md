@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rohanikshvaku
 - 👀 I’m interested in AI & ML 
-- 🌱 I’m currently in the langchain rabbit hole
 - 📫 Reach me on rohan@parshva.io
 
 <!---
